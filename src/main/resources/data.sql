@@ -24,9 +24,9 @@ insert into agente_cliente (agente_id, cliente_id) values(1, 2);
 insert into agente_cliente (agente_id, cliente_id) values (3, 2);
 
 insert into agente_cliente(agente_id, cliente_id) values (4, 1);
-//contraseña: sergio
+
 insert into usuario(usuario, password) values('sergio', '$2a$12$6ish92kXsSu4NnsD0N0WneCB5Fuw9PvBtTYuIaS/eYRm7epJV1xdS');
-//contraseña : mario
+
 insert into usuario(usuario, password) values('mario', '$2a$12$jP5Xkwm8.fsZjtMQkCj7YOjRg3dyTDPc8wwUA13/0DeuhXBsJ7R..');
 
 
